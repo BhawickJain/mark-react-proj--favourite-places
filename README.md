@@ -20,6 +20,10 @@ tags:
 
 You will make and deploy a single-page React app which will list a few of your favourite places.
 
+Here's an example screenshot to give you a rough idea, but note that the project text below takes precedence over any details from the image. Also, you are free to lay out and style your project as you see fit.
+
+![example screenshot of simple implementation of the 'favourite places' project](example-screenshots/screenshot.png)
+
 ## Setup
 
 - Create a new React app on your machine called `favourite-places-react`. See instructions on React project setup. Make sure you set up with TypeScript not the JavaScript default. TODO: add link to instructions: "React project creation setup (w typescript)".
@@ -45,7 +49,16 @@ Each "place" entry should have:
 - a link to the rough location on google maps (or alternative) (URL)
 - some text explaining why you like the place
 
-Create a React component to represent a `Place`. Parameterise it with props so that you can reuse the component for each of your favourite places.
+**Regarding components**
+
+Create a React component to represent a `Place`.
+Parameterise it with props so that you can reuse the component for each of your favourite places.
+
+You are free to make other components (either for subcomponents of a Place, or for other elements of the page).
+
+**Regarding layout and styling**
+
+You can lay the page out and style it as you like.
 
 ### Exercise: Deploy to netlify
 
