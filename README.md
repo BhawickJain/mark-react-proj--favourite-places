@@ -9,12 +9,14 @@ methods:
   - solo
 
 tags:
-  - wip
+  - Netlify
 ---
 
 # Academy Project: Favourite Places
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
+> This is part of Academy's [technical curriculum for **The Mark**](https://github.com/WeAreAcademy/curriculum-mark). All parts of that curriculum, including this project, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ## Overview
 
@@ -26,9 +28,9 @@ Here's an example screenshot to give you a rough idea, but note that the project
 
 ## Setup
 
-- Create a new React app on your machine called `favourite-places-react`. See instructions on React project setup. Make sure you set up with TypeScript not the JavaScript default. TODO: add link to instructions: "React project creation setup (w typescript)".
+- Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-create-a-React-app-with-TypeScript-76643f84db564a69a04db9a0b6a2f2e7)
 
-- Publish the project repo to github. Call it `favourite-places-react`. TODO: add link to instructions: "publishing new project repo to github".
+- Publish the project repo on your github account.
 
 ## Exercises:
 
@@ -64,7 +66,7 @@ You can lay the page out and style it as you like.
 
 Set up continuous deployment of your site to [netlify](https://netlify.app/) and make sure it has deployed.
 
-Ensure your site is called `academy-yourgithubusername-places`.netlify.app where `yourgithubusername` is your github username. TODO: add link to netlify deploy instructions.
+[Netlify deployment guide for React apps](https://www.notion.so/weareacademy/How-to-deploy-a-React-app-to-free-Netlify-hosting-9e6ebd4dcb814cb483c34eb0f05ea96e)
 
 ## Ideas for more work
 
