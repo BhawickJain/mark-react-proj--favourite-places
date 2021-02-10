@@ -34,6 +34,14 @@ Here's an example screenshot to give you a rough idea, but note that the project
 
 ## Exercises:
 
+### Exercise: Get your bearings!
+
+Create React App makes a React project which has **many** files you won't need to modify at all. 
+
+For this exercise, you'll start by editing `src/App.tsx`
+
+Take some time to look at the contents of that source file and its rendered output in the browser.
+
 ### Exercise: Create the app!
 
 The app's single page should have:
@@ -60,7 +68,9 @@ You are free to make other components (either for subcomponents of a Place, or f
 
 **Regarding layout and styling**
 
-You can lay the page out and style it as you like.
+You can lay the page out and style it as you like, but don't spend a long time on it - it's really not the focus here.  
+
+Once you have your app working (however ugly it is) we recommend going on to the next step (deployment) and then possibly returning to tweak visual aspects later on in the week (e.g. to try out new things you've learned).
 
 ### Exercise: Deploy to netlify
 
