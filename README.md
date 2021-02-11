@@ -66,6 +66,10 @@ Parameterise it with props so that you can reuse the component for each of your 
 
 You are free to make other components (either for subcomponents of a Place, or for other elements of the page).
 
+**Regarding images**
+
+You can find free photos at unsplash: https://unsplash.com/ and pexels: https://www.pexels.com/
+
 **Regarding layout and styling**
 
 You can lay the page out and style it as you like, but don't spend a long time on it - it's really not the focus here.  
@@ -82,7 +86,7 @@ Set up continuous deployment of your site to [netlify](https://netlify.app/) and
 
 - HTML: Link to another classmate's site in your footer to make a ring of "favourite places" sites.
 - HTML: Make a table of contents or other navigation to take you directly to a chosen Place section.
-- TypeScript & React: Make it data-driven. Store your places in an array of objects, and loop over them to create your list of places.
+- TypeScript & React: Make it data-driven. Store your places in an array of objects, and loop over them to create your list of places.  The exercise [favourite-places-map](https://github.com/WeAreAcademy/mark-react-basics-proj--favourite-places-map) tasks you to do this.
 - CSS: Learn to use css grid or flexbox to lay out your places in a grid.
 - CSS: Make it look good on mobile devices, too.
 - Advanced: Embed a google map for each place
