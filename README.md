@@ -28,7 +28,7 @@ Here's an example screenshot to give you a rough idea, but note that the project
 
 ## Setup
 
-- Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-create-a-React-app-with-TypeScript-76643f84db564a69a04db9a0b6a2f2e7)
+- Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-start-a-React-app-with-TypeScript-ea93b9fa18404103a5ddf1042030f88a)
 
 - Publish the project repo on your github account.
 
@@ -80,7 +80,7 @@ Once you have your app working (however ugly it is) we recommend going on to the
 
 Set up continuous deployment of your site to [netlify](https://netlify.app/) and make sure it has deployed.
 
-[Netlify deployment guide for React apps](https://www.notion.so/weareacademy/How-to-deploy-a-React-app-to-free-Netlify-hosting-9e6ebd4dcb814cb483c34eb0f05ea96e)
+[Netlify deployment guide for React apps](https://www.notion.so/weareacademy/How-to-deploy-a-React-app-to-free-Netlify-hosting-bc5ce1b3376d409889c43593d7271376)
 
 ## Ideas for more work
 
