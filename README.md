@@ -80,7 +80,7 @@ Once you have your app working (however ugly it is) we recommend going on to the
 
 Set up continuous deployment of your site to [netlify](https://netlify.app/) and make sure it has deployed.
 
-[Netlify deployment guide for React apps](https://www.notion.so/weareacademy/How-to-deploy-a-React-app-to-free-Netlify-hosting-bc5ce1b3376d409889c43593d7271376)
+[Netlify deployment guide for React apps](https://www.notion.so/weareacademy/How-to-deploy-a-React-app-to-free-Netlify-hosting-9e6ebd4dcb814cb483c34eb0f05ea96e)
 
 ## Ideas for more work
 
