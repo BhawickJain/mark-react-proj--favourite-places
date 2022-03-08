@@ -28,7 +28,7 @@ Here's an example screenshot to give you a rough idea, but note that the project
 
 ## Setup
 
-- Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-start-a-React-app-with-TypeScript-ea93b9fa18404103a5ddf1042030f88a)
+- Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-start-a-React-app-with-TypeScript-76643f84db564a69a04db9a0b6a2f2e7)
 
 - Publish the project repo on your github account.
 
