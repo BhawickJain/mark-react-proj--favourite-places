@@ -12,7 +12,10 @@ tags:
   - Netlify
 ---
 
+
 # Academy Project: Favourite Places
+
+!Don't clone this repo!  It is just some instructions, not the start of an app!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
@@ -27,6 +30,8 @@ Here's an example screenshot to give you a rough idea, but note that the project
 ![example screenshot of simple implementation of the 'favourite places' project](example-screenshots/screenshot.png)
 
 ## Setup
+
+!Don't clone this repo!  It is just some instructions, not the start of an app!
 
 - Create a new React app on your machine called `favourite-places-react`. See the following instructions on React project setup. Make sure you set up with TypeScript (and not the JavaScript default). [Guide to React project creation setup (with TypeScript)](https://www.notion.so/weareacademy/How-to-start-a-React-app-with-TypeScript-76643f84db564a69a04db9a0b6a2f2e7)
 
