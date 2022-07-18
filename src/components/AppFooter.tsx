@@ -2,10 +2,9 @@ import "../css/AppFooter.css";
 
 function AppFooter(): JSX.Element {
   return (
-    <footer>
-      Creative Commons, do as you please and don't troll me.
-      <small>This is the footer</small>
-    </footer>
+    <footer className="pad">
+      <div className="footer-text">Creative Commons, do as you please and don't troll me.
+        </div></footer>
   );
 }
 

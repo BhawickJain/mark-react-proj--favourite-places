@@ -3,7 +3,9 @@ import "../css/AppHeader.css";
 function AppHeader(): JSX.Element {
   return (
     <header>
-      <h1>Favourite Places!!</h1>
+      <div className="pad">
+        <h1>{"favourite places".toUpperCase()}</h1>
+      </div>
     </header>
   );
 }
