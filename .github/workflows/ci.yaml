@@ -11,4 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      name: Install modules
+    - name: Install modules
+      run: yarn
+    - name: tests with Jest
+      run: yarn test
