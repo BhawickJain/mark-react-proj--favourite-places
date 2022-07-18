@@ -1,10 +1,12 @@
-import '../css/MainContent.css';
+import "../css/MainContent.css";
+import FavouritePlaces from "./FavouritePlaces";
 
-function MainContent() {
+function MainContent(): JSX.Element {
   return (
-      <main>
-        This is the main content
-      </main>  );
+    <main>
+      <FavouritePlaces />
+    </main>
+  );
 }
 
 export default MainContent;

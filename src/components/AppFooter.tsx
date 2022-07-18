@@ -1,11 +1,11 @@
-import '../css/AppFooter.css';
+import "../css/AppFooter.css";
 
-function AppFooter() {
+function AppFooter(): JSX.Element {
   return (
     <footer>
-      This is the footer
+      <small>This is the footer</small>
     </footer>
-    );
+  );
 }
 
 export default AppFooter;
