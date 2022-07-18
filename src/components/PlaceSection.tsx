@@ -12,7 +12,7 @@ function PlaceSection({
   return (
     <section>
       <h3>
-        <span>{title}</span>[<a href={link.toString()}>link</a>]
+        <span>{title}</span>[<a href={link.toString()}>map link</a>]
       </h3>
       <h4>
         <span>{place}</span>,<span>{country}</span>
